@@ -5,20 +5,22 @@ After all parts of your object are uploaded, Amazon S3 then presents the data as
 
 Multipart uploading is a three-step process: You initiate the upload, you upload the object parts, and after you have uploaded all the parts, you complete the multipart upload
 
-# Prerequisite you need to have NODE and NPM already installed.
+# Prerequisite<br>
+ **NODE - 10.x**<br> 
+ **NPM - 6.x**<br>
 
 Install Nodemon to launch a server: 
   **npm install -g nodemon**
 
 Once cloned go to the project folder
 
-cd frontend/
-  **npm run install** 
-  **npm run start**
+cd frontend/<br>
+  **npm run install**<br>
+  **npm run start**<br>
 
-cd backend/
-  **npm run install**
-  **npm run start**
+cd backend/<br>
+  **npm run install**<br>
+  **npm run start**<br>
 
 
 If you are intrested in code walk through you can go thorugh youtube link, here I have explain how this works. 
