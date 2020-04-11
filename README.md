@@ -8,17 +8,17 @@ Multipart uploading is a three-step process: You initiate the upload, you upload
 # Prerequisite you need to have NODE and NPM already installed.
 
 Install Nodemon to launch a server: 
-# npm install -g nodemon
+  **npm install -g nodemon**
 
 Once cloned go to the project folder
 
 cd frontend/
-#  npm run install 
-#  npm run start
+  **npm run install** 
+  **npm run start**
 
 cd backend/
-#  npm run install
-#  npm run start
+  **npm run install**
+  **npm run start**
 
 
 If you are intrested in code walk through you can go thorugh youtube link, here I have explain how this works. 
